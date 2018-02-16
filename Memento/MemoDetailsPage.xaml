@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             x:Class="Memento.MemoDetailsPage"
+             Title="Memo Details">
+    <StackLayout>
+        <Entry Placeholder="Title" Text="{Binding Title}" Margin="10"/>
+        <Editor VerticalOptions="FillAndExpand" Margin="10" Text="{Binding Content}"/>
+        <DatePicker Date="{Binding Date}" Margin="10"/>
+        <Button Text="Save" Clicked="OnSave" BackgroundColor="#2196F3" TextColor="White"/>
+    </StackLayout>
+</ContentPage>

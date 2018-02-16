@@ -1,0 +1,12 @@
+C:\Users\pitig\Documents\C#\Xamarin\Memento\Memento\Memento\bin\Debug\netstandard2.0\Memento.deps.json
+C:\Users\pitig\Documents\C#\Xamarin\Memento\Memento\Memento\bin\Debug\netstandard2.0\Memento.dll
+C:\Users\pitig\Documents\C#\Xamarin\Memento\Memento\Memento\obj\Debug\netstandard2.0\Memento.csprojResolveAssemblyReference.cache
+C:\Users\pitig\Documents\C#\Xamarin\Memento\Memento\Memento\obj\Debug\netstandard2.0\Memento.csproj.CoreCompileInputs.cache
+C:\Users\pitig\Documents\C#\Xamarin\Memento\Memento\Memento\obj\Debug\netstandard2.0\Memento.App.xaml.g.cs
+C:\Users\pitig\Documents\C#\Xamarin\Memento\Memento\Memento\obj\Debug\netstandard2.0\Memento.MainPage.xaml.g.cs
+C:\Users\pitig\Documents\C#\Xamarin\Memento\Memento\Memento\obj\Debug\netstandard2.0\Memento.MemoDetailsPage.xaml.g.cs
+C:\Users\pitig\Documents\C#\Xamarin\Memento\Memento\Memento\obj\Debug\netstandard2.0\Memento.AssemblyInfoInputs.cache
+C:\Users\pitig\Documents\C#\Xamarin\Memento\Memento\Memento\obj\Debug\netstandard2.0\Memento.AssemblyInfo.cs
+C:\Users\pitig\Documents\C#\Xamarin\Memento\Memento\Memento\bin\Debug\netstandard2.0\Memento.pdb
+C:\Users\pitig\Documents\C#\Xamarin\Memento\Memento\Memento\obj\Debug\netstandard2.0\Memento.dll
+C:\Users\pitig\Documents\C#\Xamarin\Memento\Memento\Memento\obj\Debug\netstandard2.0\Memento.pdb
